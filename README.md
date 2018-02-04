@@ -1,6 +1,7 @@
 
-ec2-13-59-174-51.us-east-2.compute.amazonaws.com : dominio para app de node.
-13.59.174.51 :ip de pagina estatica.
+-dominio para app de node : ec2-13-59-174-51.us-east-2.compute.amazonaws.com
+
+-ip de pagina estatica: 13.59.174.51
 
 
 
